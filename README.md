@@ -1,3 +1,34 @@
-Responsive Landing Page
+# Landing Page
 
-This project is a responsive landing page that performs perfectly on desktop, tablet, and mobile devices. The page gives the best possible user experience by including new design features like flexible layouts, clear style, and smooth animations.
+This repository contains the code for a responsive and modern landing page.
+
+## Features
+
+- Fully responsive design
+- User-friendly interface
+- Custom animations and interactive elements
+- Cross-browser compatibility
+- Fast loading speed
+
+## Installation
+
+To run the project locally:
+
+1. Open the `index.html` file in your preferred browser:
+    ```bash
+    open index.html
+    ```
+
+## Usage
+
+- Showcasing a product or service.
+- Promoting an event or a campaign.
+- Collecting user information via a contact form.
+
+## Technologies Used
+
+- **HTML5** for the structure of the app
+- **CSS3** for styling
+- **JavaScript** for handling the timer functionality
+
+**Created by Reyan**
